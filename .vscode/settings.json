@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "../env/"
+    ],
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportUnboundVariable": "none",
+        "reportMissingModuleSource": "none"
+    }
+}
